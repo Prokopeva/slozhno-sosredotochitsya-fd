@@ -215,16 +215,13 @@ header .title-decor {
 .gallery img {
   justify-self: center;
   object-fit: cover;
-  inline-size: calc(100% - 20px);
+  inline-size: 100%;
   block-size: auto;
 }
 
 .footer__title {
   align-self: center;
   text-shadow: 2px 2px 0 var(--accent-color);
-}
-
-.footer__title {
   justify-self: center;
 }
 

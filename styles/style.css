@@ -31,7 +31,6 @@
   height: 25px;
   border-width: 1px 1px 0 0;
   border-style: solid;
-  border-color: var(--menu-color);
   border-color: var(--menu-color) var(--menu-color) transparent transparent;
 }
 
@@ -44,7 +43,6 @@
   height: 25px;
   border-width: 0 0 1px 1px;
   border-style: solid;
-  border-color: var(--menu-color);
   border-color: transparent transparent var(--menu-color) var(--menu-color);
 }
 
@@ -201,7 +199,7 @@ li {
   gap: 10px;
 }
 
-.main__header{
+.main__header {
   font-weight: var(--font-weight);
 }
 

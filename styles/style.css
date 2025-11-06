@@ -194,11 +194,6 @@ header p {
   gap: 20px;
 }
 
-li {
-  display: grid;
-  gap: 10px;
-}
-
 .main__header {
   font-weight: var(--font-weight);
 }
